@@ -132,7 +132,5 @@ That's it! You have successfully set up your FastAPI project. Feel free to expan
 
 ---
 
-<br>
-
 ## **Part 2: Continue integrating Alembic Migration with SQLAlchemy in FastAPI Application** 
 
