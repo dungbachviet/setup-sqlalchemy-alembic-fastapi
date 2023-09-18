@@ -13,7 +13,6 @@ class UserModel(Base):
     updated_at = Column(TIMESTAMP)
     field_1 = Column(String)
     field_2 = Column(String)
-    field_3 = Column(String)
 
 class TenantModel(Base):
     __tablename__ = 'tenants'
